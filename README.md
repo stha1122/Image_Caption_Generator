@@ -48,3 +48,6 @@ The decoder generates the next word in the sequence based on the previous word a
 We evaluate the model's performance using metrics such as BLEU score, which compares the generated captions with the reference captions.
 Hyperparameters like learning rate, batch size, and optimizer settings are fine-tuned to improve the model's performance on the validation set.
 
+### **Ouput**
+![image](https://github.com/stha1122/Image_Caption_Generator/assets/122188963/ff0fe2fd-59f8-4adc-87cc-7c4fc9069696)
+
